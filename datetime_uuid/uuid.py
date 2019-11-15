@@ -1,6 +1,6 @@
 from datetime import datetime
 from random import randint
-from uuid import uuid4, UUID
+from uuid import uuid4
 
 
 def get_uuid(use_date_stamp=True):
